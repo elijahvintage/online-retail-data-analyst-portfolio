@@ -1,0 +1,18 @@
+# Raw source data (download separately from UCI; do not commit)
+data/*.xlsx
+data/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated / local files
+.ipynb_checkpoints/
+.DS_Store
+*.log
+report/
+review/
+.typst-*

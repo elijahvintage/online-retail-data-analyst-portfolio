@@ -1,0 +1,15 @@
+{
+  "raw_rows": 541909,
+  "raw_invoices": 25900,
+  "analysis_rows": 530104,
+  "analysis_invoices": 19960,
+  "cancelled_invoices": 3836,
+  "cancellation_rate_pct": 16.1,
+  "gross_revenue_gbp": 10666684.54,
+  "customers_with_id": 4338,
+  "products": 3922,
+  "countries": 38,
+  "date_start": "01 Dec 2010",
+  "date_end": "09 Dec 2011",
+  "average_order_value_gbp": 534.4
+}
